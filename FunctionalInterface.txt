@@ -1,0 +1,9 @@
+interface Interface{
+	void arrowfunction();
+}
+
+class FunctionalInterface {
+	public static void main(String[] args){
+		System.out.println("inside main");
+	}
+}
